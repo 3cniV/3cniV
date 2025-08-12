@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @3cniV
 - 👀 I’m interested in Web dev and blockchain tech
-- 🌱 I’m currently learning rust.
+- 🌱 I’m currently learning Cybersecurity.
 - 📫 How to reach me .? contact me at otvincent20@gmail.com
 
 <!---
